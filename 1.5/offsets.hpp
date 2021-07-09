@@ -1,8 +1,8 @@
 namespace offsets
 {
-	//viewWordBase: 54faac10
-	DWORD uWorld = 0x54b1ae1c; //viewWordBase-4783604
-	DWORD gNames = 0x54b11550; //viewWordBase-4822720
+	//viewWordBase: 50b3ac10
+	DWORD uWorld = 0x506aae1c; //viewWordBase-4783604
+	DWORD gNames = 0x506a1550; //viewWordBase-4822720
 
 	DWORD PersistentLevel = 0x20;
 	DWORD NetDriver = 0x24;
