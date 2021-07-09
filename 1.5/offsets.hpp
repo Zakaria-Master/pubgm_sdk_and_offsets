@@ -25,7 +25,7 @@ namespace offsets
 	DWORD CurrentStates = 0x920;
 	DWORD Health = 0x928;
 	DWORD HealthMax = 0x92c;
-	DWORD bIsAI = 0x6e8;
+	DWORD bIsAI = 0x6e8; //isbot
 	DWORD VehicleCommon = 0x698;
 	DWORD HP = 0x11c;
 	DWORD HPMax = 0x118;
